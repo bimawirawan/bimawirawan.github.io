@@ -128,6 +128,7 @@ http://4.26.188.2:8081/udp/239.193.10.101:23901
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",Fox Sport 2
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ynrzra1610194318.png",ESPN 1
 http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
 
@@ -146,20 +147,20 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",Eleven Sports 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS LIVE
 http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7946
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 1 XTRA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS XTRA
 http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3943
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS MAX
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 2
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 3
 http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 4
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 5
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
