@@ -146,8 +146,11 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",Eleven Sports 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 1 EPL
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7946
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 1 LL
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3943
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 2
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
@@ -155,12 +158,17 @@ http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 3
 http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 4
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 5
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 6
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 7
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4196
 
 #EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé TV
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
@@ -193,7 +201,11 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenActionMovies3.es" tvg-country="ES" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies 3
 https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/This_is_hor_help.png" group-title="Movies",Fox Action Movies
+https://s.id/iduntv-foactmov
 
+#EXTINF:-1 tvg-logo="https://www.vector-logo.net/logo_preview/eps/f/Fox_Family.png" group-title="Movies",FoxFamilyMovie
+https://s.id/iduntv-foxfam
 
 
 
