@@ -77,6 +77,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyJ5C4Hc/animal-planet.jpg" group-title="Education", Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="DuckTV.sk" tvg-country="SK" tvg-language="English" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Kids",Duck TV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -147,8 +153,17 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",Eleven Sports 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS LIVE
+http://sos.moukrasa.xyz/live/6161655/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS XTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS MAX
 http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 1
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 2
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
