@@ -113,6 +113,8 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorAsia.us" tvg-country="ASIA" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/489928997384380416/-2-T7oX1.jpeg" group-title="Kids",Disney Junior Asia
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-jy2mm7NMW5o/AAAAAAAAAAI/AAAAAAAAAAA/SQnxxQNjgAY/s900-c-k-no/photo.jpg" group-title="Kids",Baby First TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632415163/ei/W1lMYcHqB-qL3LUPsq21mAY/ip/182.253.162.68/id/Z-_IHv5C02w.1/source/yt_live_broadcast/requiressl/yes/tx/24078604/txs/24078599%2C24078600%2C24078601%2C24078602%2C24078603%2C24078604%2C24078605/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKgY_rADBMgPD3pTA5i-3KY3KbOJb3jjYTAfSbvf2bK8CIG1lRGBl4ZaD3kZaEZYii_OfXDQZjjftfvOPH3dAhiYe/file/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/a/AATXAJz7ZAEPTMDhi8cGUSZMIQHLpxcDptIkX7laUg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sports",AD Sports 1
