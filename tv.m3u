@@ -89,7 +89,7 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PinkfongBabyShark.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",Pinkfong
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9zRYK8n.jpg" group-title="Kids",Super Simple Songs
+#EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9zRYK8n.jpg" group-title="Kids",Super Simple
 https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Supertoons.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iVeuci8.jpg" group-title="Kids",Supertoons CH1
