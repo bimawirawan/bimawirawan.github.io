@@ -81,7 +81,11 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyJ5C4Hc/animal-planet.jpg" group-title="Education", Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/85-857599_didi-friends-logo-didi-and-friends-vector.png/revision/latest?cb=20200130233121" group-title="Kids",Didi & Friends
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632416149/ei/NV1MYe3WJOaEjuMP1sebuAY/ip/182.253.162.68/id/q21yhTqg-W0.1/source/yt_live_broadcast/requiressl/yes/tx/24078604/txs/24078599%2C24078600%2C24078601%2C24078602%2C24078603%2C24078604%2C24078605/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCwmVZb9MVykSogFueYxasYOM8gjauJuaPpAXo4N70BACIQC7OT9p5Mpln_v4DvrVDqQ7Esdn2YUeNPSIz1zCn1woOw%3D%3D/file/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://vignette1.wikia.nocookie.net/spongebob/images/1/17/Nickelodeon_logo.png/revision/latest?cb=20100705221325&path-prefix=ar" group-title="Kids",Nickelodeon Indonesia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632415762/ei/sltMYcSsGN653LUPnaGHyAM/ip/182.253.162.68/id/1qbmNFqheG4.2/source/yt_live_broadcast/requiressl/yes/tx/24078604/txs/24078599%2C24078600%2C24078601%2C24078602%2C24078603%2C24078604%2C24078605/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMfzD0vOkeXKlCHs138lhs1Uq971FdKrecKsLEK_AkTkAiB9i09wk7SfN0tGHT-UdQ2ZiB3uH0I-RqTB1GpSyyITyw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.sk" tvg-country="SK" tvg-language="English" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Kids",Duck TV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
