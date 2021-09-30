@@ -110,16 +110,16 @@ http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 ### ============================ SPORT-TV =========================================
 
 
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/a/AATXAJz7ZAEPTMDhi8cGUSZMIQHLpxcDptIkX7laUg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sports",AD Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+### #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/a/AATXAJz7ZAEPTMDhi8cGUSZMIQHLpxcDptIkX7laUg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sports",AD Sports 1
+### https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/a/AATXAJz7ZAEPTMDhi8cGUSZMIQHLpxcDptIkX7laUg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sports",AD Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+### #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/a/AATXAJz7ZAEPTMDhi8cGUSZMIQHLpxcDptIkX7laUg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sports",AD Sports 2
+### https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/a/AATXAJz7ZAEPTMDhi8cGUSZMIQHLpxcDptIkX7laUg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sports",AD Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+### #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/a/AATXAJz7ZAEPTMDhi8cGUSZMIQHLpxcDptIkX7laUg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sports",AD Sports 3
+### https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="" tvg-logo="https://4.bp.blogspot.com/-Qt2jZx2_r1w/V27zA1daF7I/AAAAAAAAA0U/dPgf2SqINMQ_GP0EMAu56LwvLz988IjhQCLcB/s1600/goldenedge.png" group-title="Sports",EDGEsport
+### #EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="" tvg-logo="https://4.bp.blogspot.com/-Qt2jZx2_r1w/V27zA1daF7I/AAAAAAAAA0U/dPgf2SqINMQ_GP0EMAu56LwvLz988IjhQCLcB/s1600/goldenedge.png" group-title="Sports",EDGEsport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
 
@@ -151,29 +151,41 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.OOWdLDuoSF4jv2th4l45igHaHa%26pid%3DApi&f=1",Sky Sport 1 Football
 http://stream.tvtap.live:8081/live/de-skybundes1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDExOjU1OjE3IFBNJmhhc2hfdmFsdWU9Tm5oTEJIdFV1d1JpK3ZYai9VWjlVQT09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS LIVE
+### #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS LIVE
 http://sos.moukrasa.xyz/live/6161655/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS XTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS MAX
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS XTRA 1
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_2.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 1
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS XTRA 2
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_3.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 2
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS XTRA 3
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_4.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 3
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS XTRA 4
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_5.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 5
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+### #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS MAX
+### http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 6
-http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+### #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 1
+### http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+
+### #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 2
+### http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+
+### #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 3
+### http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+
+### #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 5
+### http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+
+### #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",BEIN SPORTS 6
+### http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
 
 
 ### ============================ MOVIES-TV =========================================
@@ -200,15 +212,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-
-#EXTINF:-1 tvg-id="RakutenActionMovies1.es" tvg-country="ES" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies 1
-https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenActionMovies2.es" tvg-country="ES" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies 2
-https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenActionMovies3.es" tvg-country="ES" tvg-language="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies 3
-https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 
 ### ============================ KOREAN-TV =========================================
