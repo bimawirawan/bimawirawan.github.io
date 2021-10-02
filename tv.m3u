@@ -4,10 +4,10 @@
 ### ============================ LOCAL-TV ====================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="Local", TVONE
-https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=1999
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FTVONE-Decepticon\u002Fsa_hls\u002FTVONE-Decepticon.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="Local", ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+https:\u002F\u002Fvisionplus-stream.visionplus.id\u002Flive\u002Feds\u002FANTV-radeon\u002Fsa_hls\u002FANTV-radeon.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Local", SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
